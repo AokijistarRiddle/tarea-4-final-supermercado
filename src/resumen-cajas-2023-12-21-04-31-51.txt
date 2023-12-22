@@ -1,0 +1,48 @@
+Normal-0:
+	Productos vendidos: 0
+	Total vendido: 0.0
+	Clientes atendidos: 0
+	Máximo de clientes formados: 0
+Normal-1:
+	Productos vendidos: 0
+	Total vendido: 0.0
+	Clientes atendidos: 0
+	Máximo de clientes formados: 0
+Normal-2:
+	Productos vendidos: 0
+	Total vendido: 0.0
+	Clientes atendidos: 0
+	Máximo de clientes formados: 0
+Normal-3:
+	Productos vendidos: 0
+	Total vendido: 0.0
+	Clientes atendidos: 0
+	Máximo de clientes formados: 0
+Normal-4:
+	Productos vendidos: 16
+	Total vendido: 2733.6200000000003
+	Clientes atendidos: 6
+	Máximo de clientes formados: 1
+Normal-5:
+	Productos vendidos: 63
+	Total vendido: 21269.33
+	Clientes atendidos: 45
+	Máximo de clientes formados: 1
+Normal-6:
+	Productos vendidos: 328
+	Total vendido: 153173.77999999977
+	Clientes atendidos: 241
+	Máximo de clientes formados: 1
+Rapida-2:
+	Productos vendidos: 289
+	Total vendido: 100984.37000000005
+	Clientes atendidos: 228
+Rapida-0:
+	Productos vendidos: 157
+	Total vendido: 37021.969999999994
+	Clientes atendidos: 100
+Rapida-1:
+	Productos vendidos: 72
+	Total vendido: 13310.189999999999
+	Clientes atendidos: 34
+Máximo número de clientes formados en área rápida: 1
